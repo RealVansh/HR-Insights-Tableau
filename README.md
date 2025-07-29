@@ -92,4 +92,4 @@ Instead of relying on prebuilt datasets, this project shows that I can:
 ## 📬 Contact
 
 **Vansh V**  
-💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/vansh-v/))  
+💼 [LinkedIn](https://www.linkedin.com/in/vansh-v/)
