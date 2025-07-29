@@ -1,6 +1,6 @@
 # 🧠 Human Resources Analytics Dashboard (Tableau + Python)
 
-![Dashboard Preview]<img width="1390" height="797" alt="Screenshot 2025-07-29 at 7 20 57 PM" src="https://github.com/user-attachments/assets/a4cf938c-f974-4da8-873c-4605aae3ee75" />
+[Dashboard Preview]<img width="1390" height="797" alt="Screenshot 2025-07-29 at 7 20 57 PM" src="https://github.com/user-attachments/assets/a4cf938c-f974-4da8-873c-4605aae3ee75" />
 
 
 This project combines **data science + business intelligence** to simulate, clean, and visualize a realistic HR dataset of **8,950 employees**. The goal was to equip HR stakeholders with a decision-making dashboard, built entirely using **Python for data generation** and **Tableau for visual analytics**.
