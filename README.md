@@ -63,7 +63,6 @@ Built using **Tableau**, the dashboard contains 3 sections:
 | File | Description |
 |------|-------------|
 | `generate_hr_dataset.py` | Python script to generate HR data with 8,950 records |
-| `HumanResources.csv` | Output dataset used in Tableau |
 | `HR Dashboard.twbx` | Packaged Tableau dashboard file |
 | `dashboard.png` | Static screenshot for preview |
 | `README.md` | You’re reading it 👀 |
@@ -86,14 +85,6 @@ Instead of relying on prebuilt datasets, this project shows that I can:
 - Clean and transform data programmatically
 - Create meaningful visualizations tailored to stakeholders
 - Bridge the gap between **data engineering**, **analytics**, and **storytelling**
-
----
-
-## 📌 Next Steps (Optional Add-ons)
-If extended, this project can include:
-- Predicting employee churn using logistic regression or XGBoost
-- Salary clustering using K-Means
-- Deployment with dashboards on Tableau Public
 
 ---
 
